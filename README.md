@@ -1,51 +1,80 @@
-Business Analytics & Operations Portfolio
+# Business Analytics & Business Analysis Portfolio
 
-Welcome to my portfolio of business analytics, dashboard development, and operational process improvement projects.
+**Business Analysis | Business Intelligence | Operations & Process Improvement | Data Analytics**
 
-I have a background in the fashion industry and a Master of Science in Business Analytics. My interests include translating business needs into practical solutions, improving operational workflows, and using data to support better business decisions.
+Welcome to my professional portfolio. I am a business analytics professional with a background in the fashion industry and a Master of Science in Business Analytics.
 
-Featured Project: Business Operations Dashboard
+I am interested in bridging the gap between business needs, data-driven insights, and practical technology solutions. My work focuses on understanding business problems, analyzing workflows, improving operational processes, and translating requirements into actionable solutions.
 
-Business Context
+## Core Competencies
 
-Business operations teams often need efficient ways to access operational information and manage recurring workflows. This project involves work on an existing brokerage operations dashboard and related payment and reminder workflows.
+- **Business Analysis:** Business requirements, process analysis, problem-solving, and workflow improvement
+- **Data Analytics:** Data exploration, analytical thinking, KPI analysis, and evidence-based recommendations
+- **Dashboard Development:** Operational dashboards, reporting, and data visualization
+- **Technical Problem-Solving:** API integration, application troubleshooting, testing, and version control
+- **Industry Interests:** Retail analytics, fashion technology, supply chain optimization, and sustainability
 
-Areas of Work
+## Featured Project
 
-Dashboard functionality and user experience
+### Business Operations Dashboard & Workflow Improvement
 
-Payment-related operational workflows
+**Project focus:** Operational visibility, payment-related workflows, and process improvement.
 
-Bulk call and reminder campaign functionality
+This project involves contributions to an existing brokerage operations dashboard and related payment-call and reminder workflows.
 
-API integration and troubleshooting
+**Areas of contribution**
+- Worked on dashboard functionality and user-facing operational workflows.
+- Contributed to payment-related and bulk-call functionality.
+- Worked with API integrations and application troubleshooting.
+- Investigated errors and workflow behavior.
+- Used Git and GitHub for version control and collaborated with an existing application codebase.
+- Considered reliability, exception handling, and the needs of business users.
 
-Error handling and workflow reliability
+**Business analysis approach**
 
-Git-based version control and deployment troubleshooting
+My approach to operational improvement includes understanding the business problem, identifying user needs, documenting requirements, examining workflow exceptions, validating expected behavior, and identifying opportunities for improvement.
 
-Technical Skills
+**Potential business value**
 
-React and TypeScript
+Well-designed operational workflows can help teams manage recurring tasks more consistently and improve visibility into workflow status. Actual business outcomes should be evaluated using evidence such as task completion time, error rates, and successful workflow completion.
 
-Vite
+> This portfolio describes selected areas of work. The original application and its source code are maintained separately. No confidential business information or customer data is intended to be published here.
 
-API integration
+## Technical Toolkit
 
-Git and GitHub
+**Programming & Application Development:** Python, React, TypeScript
 
-Business process analysis
+**Data & Analytics:** Power BI, Tableau, Power Query, scikit-learn
 
-Problem-solving and testing
+**Development & Version Control:** Git, GitHub, Vite, API integration
 
-Business Analysis Perspective
+*Tools listed reflect my broader technical toolkit; individual project documentation will specify which tools were used in each project.*
 
-For each workflow, I aim to understand the business need, identify process challenges, clarify requirements, consider exceptions and risks, and validate that the solution behaves as expected.
+## Professional Background
 
-Business Value
+My background combines experience in the fashion industry with graduate-level business analytics education. This combination informs my interest in solving operational problems through analytics, process improvement, and technology.
 
-The intended value of this type of work is to make operational workflows easier to manage and improve visibility into task completion and errors. Measured results will be added when supported by verified evidence.
+I am particularly interested in applying analytical methods to retail, fashion, and supply chain challenges, including demand forecasting, inventory optimization, and reducing overproduction.
 
-Confidentiality
+## Current Portfolio Roadmap
 
-The original application is maintained separately. This portfolio will contain only authorized, sanitized descriptions and demonstrations, without confidential business information or customer data.
+- Develop detailed business analysis case studies.
+- Document process workflows and business requirements.
+- Build analytical projects with clearly defined KPIs and recommendations.
+- Explore data-driven approaches to fashion demand forecasting and sustainability.
+- Document testing methods and measurable outcomes when reliable evidence is available.
+
+## Career Interests
+
+I am interested in opportunities in:
+
+- Business Analyst
+- Business Data Analyst
+- Business Intelligence Analyst
+- Operations Analyst
+- Reporting Analyst
+- Supply Chain Analyst
+
+## Connect
+
+Explore this repository for project documentation, analytical work, and practical examples of business problem-solving.
